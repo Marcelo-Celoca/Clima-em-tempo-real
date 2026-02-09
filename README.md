@@ -6,7 +6,7 @@ Meu primeiro projeto que consome dados reais da internet através de uma **API R
 ![JSON](https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white)
 
 ## 📋 Sobre o Projeto
-O objetivo deste programa é conectar-se aos servidores da API **HG Brasil Weather** para buscar informações climáticas atualizadas. O projeto exercita o uso de requisições HTTP, manipulação de arquivos JSON e integração com serviços externos.
+O objetivo deste programa é conectar-se aos servidores da API **HG Brasil Weather** para buscar informações climáticas atualizadas. O projeto exercita o uso de requisições **HTTP**, manipulação de arquivos **JSON** e integração com serviços externos.
 
 ## 🚀 Funcionalidades
 * **Requisições HTTP:** Uso da biblioteca `requests` para buscar dados na web.
